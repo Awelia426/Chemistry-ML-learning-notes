@@ -7,7 +7,7 @@
 
 ---
 
-## 📐 Mathematics
+##  Mathematics
 
 ### Learning
 - Linear Algebra
@@ -18,7 +18,7 @@
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 ### Learning
 - Gradient & Directional Derivative
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚛️ Computational Chemistry
+##  Computational Chemistry
 
 ### Learning
 - DFT
@@ -40,7 +40,7 @@
 
 ---
 
-## 💥 Energetic Materials
+##  Energetic Materials
 
 ### Learning
 - Fundamentals of Energetic Materials
@@ -53,7 +53,7 @@
 
 ---
 
-## ⚗️ Physical Chemistry
+##  Physical Chemistry
 
 ### Learning
 - Thermodynamics
@@ -62,7 +62,7 @@
 
 ---
 
-## 📄 Paper Reading
+##  Paper Reading
 
 用于记录：
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📝 Notes
+##  Notes
 
 这个仓库不是完整教材，而是我的个人学习记录。
 
