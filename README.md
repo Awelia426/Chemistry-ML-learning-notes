@@ -63,7 +63,7 @@
 ---
 ### 已整理
 
-- [硝基甲烷平衡状态的 Gibbs 自由能最小化](./Energetic-Materials/notebooks/nitromethane_equilibrium.ipynb)
+- [硝基甲烷平衡状态的 Gibbs 自由能最小化](./Energetic-Materials/nitromethane_equilibrium.ipynb)
 
 ##  Paper Reading
 
