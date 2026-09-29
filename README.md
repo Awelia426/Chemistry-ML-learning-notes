@@ -40,6 +40,18 @@
 
 ---
 
+## 💥 Energetic Materials
+
+### Learning
+- Fundamentals of Energetic Materials
+- Structure–Property Relationships
+- Crystal Structure
+- Thermal Decomposition
+- Density & Stability
+- Computational Studies
+- Literature Notes
+
+---
 
 ## ⚗️ Physical Chemistry
 
