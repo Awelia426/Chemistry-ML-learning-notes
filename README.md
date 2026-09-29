@@ -40,15 +40,6 @@
 
 ---
 
-## 🧱 Materials Science
-
-### Learning
-- LDH
-- ZnCr-LDH
-- CO₂ Reduction
-- Composite Materials
-
----
 
 ## ⚗️ Physical Chemistry
 
